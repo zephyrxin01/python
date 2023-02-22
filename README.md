@@ -1,3 +1,3 @@
 # python
 
-## lecture1
+## lecture1 Introduction
